@@ -36,11 +36,16 @@ Model Used	Random Forest Classifier
 📂 churn-analysis
 │
 ├── sql/
+
 │   └── churn_queries.sql               # Cleaned SQL scripts
 │
+
 ├── images/
+
 │   └── PowerBI_Churn_Insights.pdf      # Screenshot of Power BI insights
+
 │
+
 └── README.md
 🧮 SQL Data Analysis & Cleaning
 🔍 Data Exploration
